@@ -42,20 +42,13 @@ At each of these levels, an organization will have different questions and face 
 - How do I establish an open source policy?
 - How can our open source involvement help us with hiring?
 
-## Ok, Now what?
+## Potential applications of the Maturity Model
 
-I suspect that this framework could be helpful for many aspects of what we do as a company, such as the structure of our help docs, our training offerings, github.com features, other products offerings, or other programs that we establish.
+The maturity model is being developed with two primary goals in mind:
 
-- After a very quick and informal glance at our [current docs](https://gist.github.com/bkeepers/0b7fbbb19a7ec4b4c9f7), most of them focus on level 2 and 3.
+- Evaluating how our products, programs, services, and resources are helping customers develop more mature practices around open source.
 
-- Our fantastic [Patchwork](https://github.com/github/patchwork) program helps people learn how to fork and contribute back to open source projects, which fits squarely in level 2 of this maturity model. Is there an opportunity for similar programs focused on level 1 and level 3?
-
-- choosealicense.com is mostly targeting people at level 3 that are releasing their open source projects. What resources do we have to offer consumers of open source at level 1, or folks with IP concerns at level 2?
-
-One result of this model could be a complete _starter kit_ or [_field manual_](https://github.com/github/open-source/issues/94) that includes all the resources needed to use, contribute to, release, and manage open source projects on GitHub.
-
-- What other questions or challenges to organizations face at each level of this maturity model?
-- Do an audit our documentation, resources, programs, and features and think about where they fit in this maturity model
+- Creating a comprehensive _starter kit_ or [_field manual_](https://github.com/github/open-source/issues/94) that includes all the resources needed to use, contribute to, release, and manage open source projects on GitHub.
 
 ## Current Status
 
