@@ -4,14 +4,14 @@ Adopting open source software is not a single act, but a series of steps, varyin
 
 A [maturity model](http://martinfowler.com/bliki/MaturityModel.html) is a tool to assess the effectiveness of behaviors, practices and processes in producing the desired outcomes. The model defines a set of structured levels that lead an organization down a path of more systematically organized and mature processes.
 
-A maturity model for adopting open source software will guide an organization through steps of increasing complexity in four adopting open source:
+A maturity model for adopting open source software will guide an organization through steps of increasing complexity in adopting open source. Those steps fall into one of four categories:
 
 1. Using open source software.
 2. Contributing back to the open source projects you use.
 3. Releasing your own software as open source.
 4. Embracing open source as a strategy for producing better software.
 
-At each of these levels, an organization will have different questions and face unique challenges. Below are some of the questions that various people in an organization ask when they are at each level.
+Organization will have different questions and face unique challenges as they embrace more mature processes. Below are some of the questions that various people in an organization ask when for each type of activity.
 
 ### Using open source software.
 
