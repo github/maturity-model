@@ -56,3 +56,10 @@ One result of this model could be a complete _starter kit_ or [_field manual_](h
 
 - What other questions or challenges to organizations face at each level of this maturity model?
 - Do an audit our documentation, resources, programs, and features and think about where they fit in this maturity model
+
+## Current Status
+
+The maturity model is currently a very early concept and actively being developed.
+
+* [Sticky Notes for brainstorming the activities involved in open source](https://stickies.io/boards/564eda3fefefba0b2fe8a072#1)
+* Bookmarks, primary sources, and notes are being gathered in an [Evernote notebook](https://www.evernote.com/pub/bkeepers/maturitymodel)
