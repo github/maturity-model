@@ -14,7 +14,7 @@ An organization applying the maturity model aims to:
 - Create value by using open source as a force multiplier, shifting limited resources from low-value work to high-value work, focusing on core competencies, and benefiting from the expertise of the community.
 - Gain industry-wide recognition that serves as advertising, recruiting, or general leadership.
 
-### Dimensions
+## Dimensions
 
 1. Using open source software.
 2. Contributing back to the open source projects you use.
