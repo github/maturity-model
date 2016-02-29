@@ -6,7 +6,7 @@ Embracing open source software is not a single act, but a series of steps, varyi
 
 ## Objectives
 
-The maturity model will help organizations improve their performance of and capability to consume, contribute to, release and strategically embrace open source in a way that improves their ability to deliver the products and services their customers want, when they want them and at a price they're willing to pay.
+The maturity model will help organizations improve their performance of and capability to embrace open source in a way that improves their ability to deliver the products and services their customers want, when they want them and at a price they're willing to pay.
 
 An organization applying the maturity model aims to:
 
