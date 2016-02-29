@@ -16,20 +16,19 @@ An organization applying the maturity model aims to:
 
 ## Dimensions
 
-1. Using open source software.
+There are three dimensions to embracing open source:
+
+1. Consuming open source software.
 2. Contributing back to the open source projects you use.
 3. Releasing your own software as open source.
-4. Embracing open source as a strategy for producing better software.
 
-Organization will have different questions and face unique challenges as they embrace more mature processes. Below are some of the questions that various people in an organization ask when for each type of activity.
+## Stages
 
-
-
-
-
-
-
-
+1. Ad-hoc
+2. Managed
+3. Defined
+4. Measured
+5. Embraced
 
 ## Potential applications of the Maturity Model
 
