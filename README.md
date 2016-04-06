@@ -6,13 +6,26 @@ Embracing open source software is not a single act, but a series of steps, varyi
 
 ## Objectives
 
-The maturity model will help organizations improve their performance of and capability to embrace open source in a way that improves their ability to deliver the products and services their customers want, when they want them and at a price they're willing to pay.
-
 An organization applying the maturity model aims to:
 
 - Produce higher quality products and service built on open source software components.
 - Create value by using open source as a force multiplier, shifting limited resources from low-value work to high-value work, focusing on core competencies, and benefiting from the expertise of the community.
 - Gain industry-wide recognition that serves as advertising, recruiting, or general leadership.
+
+## Actors
+
+There are several roles in an organization that face unique benefits and challenges with adopting open source.
+
+- **Developers** interact directly with the code and witness the material benefits of open source. They experience the difference between writing custom code and finding high-quality reusable components on the internet.
+- **Technical leadership** benefits from the increase in quality and efficiency of their teams, but has to be aware of the long-term consequences of the adopted technologies.
+- **Security** benefits from software that is open for inspection and has been potentially reviewed and hardened by the community, but has to continuously monitor for un-vetted code as well as vulnerabilities and exposures.
+- **Operations** benefit from reduced costs for software procurement and licensing.
+- **Legal** benefits from standardized software licenses, but has to monitor for intellectual property concerns.
+- **Business leadership** benefits from increased efficiency and quality, the reduction of unnecessary overhead, and the opportunity for alternate business models, but has to navigate the risk of disrupting core business value.
+
+## Structure
+
+![](resources/structure.png)
 
 ## Dimensions
 
@@ -34,9 +47,9 @@ There are three dimensions to embracing open source:
 
 The maturity model is being developed with two primary goals in mind:
 
-- Evaluating how our products, programs, services, and resources are helping customers develop more mature practices around open source.
+- Evaluating how GitHub products, programs, services, and resources are helping customers develop more mature practices around open source.
 
-- Creating a comprehensive _starter kit_ or [_field manual_](https://github.com/github/open-source/issues/94) that includes all the resources needed to use, contribute to, release, and manage open source projects on GitHub.
+- Creating a comprehensive _starter kit_ that includes all the resources needed to use, contribute to, release, and manage open source projects on GitHub.
 
 ## Current Status
 
