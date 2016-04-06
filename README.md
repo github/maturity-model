@@ -2,13 +2,13 @@
 
 A [maturity model](http://martinfowler.com/bliki/MaturityModel.html) is a tool to assess the effectiveness of behaviors, practices and processes in producing the desired outcomes. The model defines a set of structured levels that lead an organization down a path of more systematically organized and mature processes.
 
-Embracing open source software is not a single act, but a series of steps, varying in complexity, that require unique knowledge and processes at each step. A maturity model for embracing open source software will guide an organization through steps of increasing complexity in adopting open source.
+Embracing open source software is not a single act, but a series of steps, varying in complexity, that require unique knowledge and processes at each step. A maturity model for embracing open source software will guide an organization through the process of successfully adopting open source.
 
 ## Objectives
 
 An organization applying the maturity model aims to:
 
-- Produce higher quality products and service built on open source software components.
+- Produce higher quality products and services built on open source software components.
 - Create value by using open source as a force multiplier, shifting limited resources from low-value work to high-value work, focusing on core competencies, and benefiting from the expertise of the community.
 - Gain industry-wide recognition that serves as advertising, recruiting, or general leadership.
 
@@ -25,7 +25,22 @@ There are several roles in an organization that face unique benefits and challen
 
 ## Structure
 
+This maturity model is inspired by the [Capability Maturity Model](https://en.wikipedia.org/wiki/Capability_Maturity_Model). The model involves six components:
+
 ![](resources/structure.png)
+
+
+- **Dimensions:** aspects that require maturity in different _Key Process Areas_.
+
+- **Maturity Levels:** a continuum of five level levels that indicate the ability for processes to produce the desired results.
+
+- **Key Process Areas:** a cluster of related activities that, when performed together, achieve a set of goals considered important.
+
+- **Goals:** The goals signify the scope, boundaries, and intent of each key process area, and the extent to which the goals have been accomplished is an indicator of capability at that maturity level.
+
+- **Common Features:** practices that implement and institutionalize a key process area. There are five types of common features: commitment to perform, ability to perform, activities performed, measurement and analysis, and verifying implementation.
+
+- **Key Practices:** elements of infrastructure and practice that contribute most effectively to the implementation and institutionalization of the area.
 
 ## Dimensions
 
@@ -35,13 +50,17 @@ There are three dimensions to embracing open source:
 2. Contributing back to the open source projects you use.
 3. Releasing your own software as open source.
 
-## Stages
+## Levels
 
-1. Ad-hoc
-2. Managed
-3. Defined
-4. Measured
-5. Embraced
+1. **Ad-hoc** - a new or undocumented process is uncontrolled, reactive and unpredictable, typically driven by individuals without coordination or communication. Success depends on individual heroics.
+
+2. **Managed** - a process is partially documented, possibly leading to consistent results. Success depends on discipline.
+
+3. **Defined** - a process is documented, standardized, and integrated into other processes. Success depends on automation.
+
+4. **Measured** - the process is quantitatively managed. Success depends on measuring metrics against business goals.
+
+5. **Optimized** - the process is continually and reliably improving through both incremental and innovative changes. Success depends on reducing the risk of change.
 
 ## Potential applications of the Maturity Model
 
@@ -57,3 +76,8 @@ The maturity model is currently a very early concept and actively being develope
 
 * [Sticky Notes for brainstorming the activities involved in open source](https://stickies.io/boards/564eda3fefefba0b2fe8a072#1)
 * Bookmarks, primary sources, and notes are being gathered in an [Evernote notebook](https://www.evernote.com/pub/bkeepers/maturitymodel)
+
+## Credits
+
+- [Wikipedia: Capability Maturity Model](https://en.wikipedia.org/wiki/Capability_Maturity_Model)
+- [Martin Fowler: MaturityModel](http://martinfowler.com/bliki/MaturityModel.html)
