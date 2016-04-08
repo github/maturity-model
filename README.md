@@ -47,8 +47,8 @@ This maturity model is inspired by the [Capability Maturity Model](https://en.wi
 There are three dimensions to embracing open source:
 
 1. Consuming open source software.
-2. Contributing back to the open source projects you use.
-3. Releasing your own software as open source.
+2. Contributing back to the open source projects you consume.
+3. Producing your own open source software.
 
 ## Levels
 
