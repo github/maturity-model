@@ -18,8 +18,7 @@ There are several roles in an organization that face unique benefits and challen
 
 - **Developers** interact directly with the code and witness the material benefits of open source. They experience the difference between writing custom code and finding high-quality reusable components on the internet.
 - **Technical leadership** benefits from the increase in quality and efficiency of their teams, but has to be aware of the long-term consequences of the adopted technologies.
-- **Security** benefits from software that is open for inspection and has been potentially reviewed and hardened by the community, but has to continuously monitor for un-vetted code as well as vulnerabilities and exposures.
-- **Operations** benefit from reduced costs for software procurement and licensing.
+- **Security** benefits from software that is open for inspection and has been potentially reviewed and hardened by the community, but has to continuously monitor for un-vetted code as well as new vulnerabilities and exposures.
 - **Legal** benefits from standardized software licenses, but has to monitor for intellectual property concerns.
 - **Business leadership** benefits from increased efficiency and quality, the reduction of unnecessary overhead, and the opportunity for alternate business models, but has to navigate the risk of disrupting core business value.
 
@@ -28,7 +27,6 @@ There are several roles in an organization that face unique benefits and challen
 This maturity model is inspired by the [Capability Maturity Model](https://en.wikipedia.org/wiki/Capability_Maturity_Model). The model involves six components:
 
 ![](resources/structure.png)
-
 
 - **Dimensions:** aspects that require maturity in different _Key Process Areas_.
 
@@ -46,9 +44,9 @@ This maturity model is inspired by the [Capability Maturity Model](https://en.wi
 
 There are three dimensions to embracing open source:
 
-1. Consuming open source software.
-2. Contributing back to the open source projects you consume.
-3. Producing your own open source software.
+1. [Consuming](/dimensions/1-consuming.md) open source software.
+2. [Contributing](/dimensions/1-contributing.md) back to the open source projects you consume.
+3. [Producing](/dimensions/1-producing.md) your own open source software.
 
 ## Levels
 
