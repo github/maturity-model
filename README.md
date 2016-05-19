@@ -81,3 +81,9 @@ The maturity model is currently a very early concept and actively being develope
 
 - [Wikipedia: Capability Maturity Model](https://en.wikipedia.org/wiki/Capability_Maturity_Model)
 - [Martin Fowler: MaturityModel](http://martinfowler.com/bliki/MaturityModel.html)
+
+## License
+
+Copyright © 2016 GitHub, Inc. and Contributors. 
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
