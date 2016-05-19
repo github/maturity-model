@@ -86,4 +86,4 @@ The maturity model is currently a very early concept and actively being develope
 
 Copyright © 2016 GitHub, Inc. and Contributors. 
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
